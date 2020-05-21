@@ -1,0 +1,1 @@
+curl -O https://raw.githubusercontent.com/liyubaku/myservice/master/myservice.sh && chmod +x myservice.sh && ./myservice.sh
